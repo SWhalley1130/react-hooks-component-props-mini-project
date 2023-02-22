@@ -1,6 +1,6 @@
 import React from "react";
 
-function Article ({id, title, date="January 1., 1970", preview, minutes})
+function Article ({id, title, date="January 1, 1970", preview, minutes})
 {
     function evalTime()
     {
